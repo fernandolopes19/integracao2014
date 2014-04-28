@@ -1,8 +1,9 @@
-package com.example.sistemanotificacaoandroid;
+package br.ufg.inf.fs.es.integracao.sna.clienteapp;
 
 import java.io.IOException;
 import java.util.concurrent.atomic.AtomicInteger;
 
+import com.example.sistemanotificacaoandroid.R;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.android.gms.gcm.GoogleCloudMessaging;
