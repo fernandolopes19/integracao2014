@@ -33,11 +33,7 @@ public class MainActivity extends ActionBarActivity {
 	private static final String PROPERTY_APP_VERSION = "appVersion";
 	private final static int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
 
-	/**
-	 * Substitute you own sender ID here. This is the project number you got
-	 * from the API Console, as described in "Getting Started."
-	 */
-	String SENDER_ID = "Your-Sender-ID";
+	String SENDER_ID = "992118974083";
 
 	/**
 	 * Tag used on log messages.
