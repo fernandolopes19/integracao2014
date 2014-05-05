@@ -1340,6 +1340,7 @@ containing a value of this type.
         public static final int up=0x7f060024;
         public static final int useLogo=0x7f060007;
         public static final int withText=0x7f060010;
+		public static final int display = 0;
     }
     public static final class integer {
         /**  The maximum number of action buttons that should be permitted within
