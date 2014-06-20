@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class EnviaMensagem {
 
-	private static final String ID_DISPOSITIVO_GCM = "APA91bHRucYH4KQOWp_h5t7nRtBbUxT5Z_lTCgFy6D9twUGWEy1A6ZPMvWFE94ANc-QrhW2bCqx0Xspc1Qa791JfciS7puUhzEw93d4TT2PZm2Z_cQXhlkGz0zyuoP2QOmxf7n-i708s4jbRZSUaecFf2b9sgbet1FwyY41LfGNlEvCPrE25nl0";
+	private static final String ID_DISPOSITIVO_GCM = "APA91bGR-AKqsf-yFfbgE0Swu20y_j_CBeof3YaNblkKLN2iZ_KaMTO4_BuR7_CrAxU-_2uVoVlUQ9mEVbOsJ_OdygBiR9IrTjChY1FUW9R-wiuzbTBBMefPPglVNHX2HencvkNUJ6G-Mtv-VPlFnLW1qSgV11ItLjdnixNE8z40aCLQ3EKPpnc";
 	private static final String API_KEY = "AIzaSyBBtaDqKKDZMyohPLboAU0polwE3j93VlY";
 
 	static final int TIME_TO_LIVE = 86400; // 86.400 segundos = 1 dia
