@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Sistema Notificacao Android</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="title_activity_ativa_gcm">SNA</string>
+    <string name="title_activity_mostra_mensagem">Mensagem Recebida</string>
 
 </resources>
